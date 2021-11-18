@@ -1,9 +1,4 @@
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hi there 👋">
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</p>
+### Hi there 👋
 
 <!--
 **AloySobek/AloySobek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
